@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51db4dc7-69a4-4b17-b27c-bcc7f97c5e01" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HTML5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML5/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -14,7 +15,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Writeln/Writeln.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,14 +70,16 @@
         <option value="$PROJECT_DIR$/DoWhile/DoWhile.html" />
         <option value="$PROJECT_DIR$/interactive/interactive.html" />
         <option value="$PROJECT_DIR$/interactive/Bingo.js" />
+        <option value="$PROJECT_DIR$/Writeln/Writeln.js" />
+        <option value="$PROJECT_DIR$/Writeln/Writeln.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="76" />
-    <option name="y" value="161" />
-    <option name="width" value="943" />
-    <option name="height" value="590" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="382" />
+    <option name="y" value="54" />
+    <option name="width" value="933" />
+    <option name="height" value="586" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -76,6 +89,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="JavaScript" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="JavaScript" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Writeln" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,23 +116,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="JavaScript" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs.cucumber.cucumber_node_package_dir" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -128,7 +147,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.interactive.html">
+  <component name="RunManager" selected="JavaScript Debug.Writeln.html">
     <configuration name="Bingo.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/Bingo/Bingo.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -138,10 +157,10 @@
     <configuration name="DoWhile.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/DoWhile/DoWhile.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="SwitchCase.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/SwithCase/SwitchCase.html" useBuiltInWebServerPort="true">
+    <configuration name="TryAndCatch.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/TryAndCatch/TryAndCatch.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="TryAndCatch.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/TryAndCatch/TryAndCatch.html" useBuiltInWebServerPort="true">
+    <configuration name="Writeln.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/Writeln/Writeln.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="interactive.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript/interactive/interactive.html" useBuiltInWebServerPort="true">
@@ -158,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Writeln.html" />
         <item itemvalue="JavaScript Debug.interactive.html" />
         <item itemvalue="JavaScript Debug.DoWhile.html" />
         <item itemvalue="JavaScript Debug.Bingo.html" />
         <item itemvalue="JavaScript Debug.Bingo.html" />
-        <item itemvalue="JavaScript Debug.TryAndCatch.html" />
       </list>
     </recent_temporary>
   </component>
@@ -181,16 +200,17 @@
       <workItem from="1545764006010" duration="6573000" />
       <workItem from="1545845816018" duration="3432000" />
       <workItem from="1545850989111" duration="43000" />
+      <workItem from="1545876664929" duration="934000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16250000" />
+    <option name="totallyTimeSpent" value="17184000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1366" height="700" extended-state="6" />
+    <frame x="382" y="54" width="933" height="586" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21486989" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31688598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -398,6 +418,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="331">
           <caret line="56" column="34" selection-start-line="56" selection-start-column="34" selection-end-line="56" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Writeln/Writeln.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
         </state>
       </provider>
     </entry>

@@ -14,12 +14,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ManyStyleSheet/ManyStyleSheet.html">
+        <entry file="file://$PROJECT_DIR$/Length/Length.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="19" column="76" lean-forward="true" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+            <state relative-caret-position="324">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -63,12 +63,20 @@
         <option value="$PROJECT_DIR$/StyleSheet/StyleSheet.html" />
         <option value="$PROJECT_DIR$/StyleSheet/ManyStyleSheet.html" />
         <option value="$PROJECT_DIR$/ManyStyleSheet/ManyStyleSheet.html" />
+        <option value="$PROJECT_DIR$/ImportCSS/ImportCSS.css" />
+        <option value="$PROJECT_DIR$/ImportCSS/ImportCSS.html" />
+        <option value="$PROJECT_DIR$/ImportCSS2/ImportCSS.css" />
+        <option value="$PROJECT_DIR$/ImportCSS2/ImportCSS.html" />
+        <option value="$PROJECT_DIR$/ImportCSS2/combined.css" />
+        <option value="$PROJECT_DIR$/Same/Same.html" />
+        <option value="$PROJECT_DIR$/inherit/inherit.html" />
+        <option value="$PROJECT_DIR$/Length/Length.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="402" />
-    <option name="y" value="85" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="370" />
+    <option name="y" value="27" />
     <option name="width" value="895" />
     <option name="height" value="419" />
   </component>
@@ -80,22 +88,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HTML5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HTML5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="ManyStyleSheet" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -107,6 +100,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ManyStyleSheet" />
       <recent name="$PROJECT_DIR$/spellcheck" />
@@ -126,29 +122,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.ManyStyleSheet.html">
-    <configuration name="ID.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/ID/ID.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.Length.html">
+    <configuration name="ImportCSS.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/ImportCSS2/ImportCSS.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="InlineStyle.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/InlineStyle/InlineStyle.html" useBuiltInWebServerPort="true">
+    <configuration name="ImportCSS.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/ImportCSS/ImportCSS.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ManyStyleSheet.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/ManyStyleSheet/ManyStyleSheet.html" useBuiltInWebServerPort="true">
+    <configuration name="Length.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/Length/Length.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="StyleSheet.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/StyleSheet/StyleSheet.html" useBuiltInWebServerPort="true">
+    <configuration name="Same.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/Same/Same.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="spellcheck.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/spellcheck/spellcheck.html" useBuiltInWebServerPort="true">
+    <configuration name="inherit.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/inherit/inherit.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.ManyStyleSheet.html" />
-        <item itemvalue="JavaScript Debug.StyleSheet.html" />
-        <item itemvalue="JavaScript Debug.InlineStyle.html" />
-        <item itemvalue="JavaScript Debug.spellcheck.html" />
-        <item itemvalue="JavaScript Debug.ID.html" />
+        <item itemvalue="JavaScript Debug.Length.html" />
+        <item itemvalue="JavaScript Debug.inherit.html" />
+        <item itemvalue="JavaScript Debug.Same.html" />
+        <item itemvalue="JavaScript Debug.ImportCSS.html (1)" />
+        <item itemvalue="JavaScript Debug.ImportCSS.html" />
       </list>
     </recent_temporary>
   </component>
@@ -164,18 +160,18 @@
       <updated>1545851025505</updated>
       <workItem from="1545851027034" duration="2538000" />
       <workItem from="1545862053794" duration="833000" />
-      <workItem from="1545863428467" duration="4793000" />
+      <workItem from="1545863428467" duration="7962000" />
+      <workItem from="1545876561197" duration="85000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8164000" />
+    <option name="totallyTimeSpent" value="11418000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="694" y="69" width="895" height="419" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="27" width="1366" height="700" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.24942791" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.16208178" />
       <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.24942791" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -193,6 +189,25 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.24942791" />
+      <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.24942791" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -343,8 +358,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ManyStyleSheet/ManyStyleSheet.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="19" column="70" selection-start-line="19" selection-start-column="70" selection-end-line="19" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImportCSS/ImportCSS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImportCSS/ImportCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImportCSS2/combined.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImportCSS2/ImportCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ImportCSS2/ImportCSS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="61" selection-start-line="5" selection-start-column="61" selection-end-line="5" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Same/Same.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="18" column="77" lean-forward="true" selection-start-line="18" selection-start-column="77" selection-end-line="18" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inherit/inherit.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
-          <caret line="19" column="76" lean-forward="true" selection-start-line="19" selection-start-column="76" selection-end-line="19" selection-end-column="76" />
+          <caret line="16" column="76" lean-forward="true" selection-start-line="16" selection-start-column="76" selection-end-line="16" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//home/xiaohai/Github/UI/HTML5">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$</OriginalElement>
+          <nodes>
+            <node x="" y="">$PROJECT_DIR$/HelloHTML5/HelloHTML5.css</node>
+            <node x="" y="">$PROJECT_DIR$/HelloHTML5/HelloHTML5.html</node>
+            <node x="" y="">$PROJECT_DIR$/ImportCSS2/ImportCSS.css</node>
+            <node x="" y="">$PROJECT_DIR$/ImportCSS/ImportCSS.css</node>
+            <node x="" y="">$PROJECT_DIR$/ImportCSS/ImportCSS.html</node>
+            <node x="" y="">$PROJECT_DIR$/ImportCSS2/ImportCSS.html</node>
+            <node x="" y="">$PROJECT_DIR$/ImportCSS2/combined.css</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.38956521739130434" x="884.5200892857142" y="638.1584821428571" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Length/Length.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
         </state>
       </provider>
     </entry>
