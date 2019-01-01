@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0614df9e-eb42-4eed-bf51-8f65b158951d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Length/Length.html">
+        <entry file="file://$PROJECT_DIR$/nav/nav.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+            <state relative-caret-position="232">
+              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -71,6 +72,12 @@
         <option value="$PROJECT_DIR$/Same/Same.html" />
         <option value="$PROJECT_DIR$/inherit/inherit.html" />
         <option value="$PROJECT_DIR$/Length/Length.html" />
+        <option value="$PROJECT_DIR$/FirstHTML5/First.html" />
+        <option value="$PROJECT_DIR$/ContentEditable/ContentEditable.html" />
+        <option value="$PROJECT_DIR$/article/article.html" />
+        <option value="$PROJECT_DIR$/section.css" />
+        <option value="$PROJECT_DIR$/section/section1.html" />
+        <option value="$PROJECT_DIR$/nav/nav.html" />
       </list>
     </option>
   </component>
@@ -88,13 +95,24 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -122,29 +140,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.Length.html">
-    <configuration name="ImportCSS.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/ImportCSS2/ImportCSS.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.nav.html">
+    <configuration name="ContentEditable.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/ContentEditable/ContentEditable.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="ImportCSS.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/ImportCSS/ImportCSS.html" useBuiltInWebServerPort="true">
+    <configuration name="First.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/FirstHTML5/First.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Length.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/Length/Length.html" useBuiltInWebServerPort="true">
+    <configuration name="article.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/article/article.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="Same.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/Same/Same.html" useBuiltInWebServerPort="true">
+    <configuration name="nav.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/nav/nav.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="inherit.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/inherit/inherit.html" useBuiltInWebServerPort="true">
+    <configuration name="section1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/section/section1.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.Length.html" />
-        <item itemvalue="JavaScript Debug.inherit.html" />
-        <item itemvalue="JavaScript Debug.Same.html" />
-        <item itemvalue="JavaScript Debug.ImportCSS.html (1)" />
-        <item itemvalue="JavaScript Debug.ImportCSS.html" />
+        <item itemvalue="JavaScript Debug.nav.html" />
+        <item itemvalue="JavaScript Debug.section1.html" />
+        <item itemvalue="JavaScript Debug.article.html" />
+        <item itemvalue="JavaScript Debug.ContentEditable.html" />
+        <item itemvalue="JavaScript Debug.First.html" />
       </list>
     </recent_temporary>
   </component>
@@ -162,16 +180,18 @@
       <workItem from="1545862053794" duration="833000" />
       <workItem from="1545863428467" duration="7962000" />
       <workItem from="1545876561197" duration="85000" />
+      <workItem from="1546279943795" duration="3275000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11418000" />
+    <option name="totallyTimeSpent" value="14693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="700" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.16208178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.16133828" />
       <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.24942791" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -428,11 +448,12 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="0.38956521739130434" x="884.5200892857142" y="638.1584821428571" />
+          <settings layout="Hierarchic Group" zoom="0.38956521739130434" x="885.0" y="638.0" />
           <SelectedNodes />
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Details</VISIBILITY>
         </state>
       </provider>
@@ -441,6 +462,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstHTML5/First.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ContentEditable/ContentEditable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/article/article.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/section/section1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nav/nav.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
         </state>
       </provider>
     </entry>
