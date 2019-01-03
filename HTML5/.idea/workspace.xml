@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0614df9e-eb42-4eed-bf51-8f65b158951d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaScript/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaScript/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,10 +16,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/nav/nav.html">
+        <entry file="file://$PROJECT_DIR$/Figure/Figure.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+            <state relative-caret-position="270">
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -78,14 +77,18 @@
         <option value="$PROJECT_DIR$/section.css" />
         <option value="$PROJECT_DIR$/section/section1.html" />
         <option value="$PROJECT_DIR$/nav/nav.html" />
+        <option value="$PROJECT_DIR$/Test/Test.html" />
+        <option value="$PROJECT_DIR$/h1-6/h1-6.html" />
+        <option value="$PROJECT_DIR$/navigation/navigation.html" />
+        <option value="$PROJECT_DIR$/Figure/Figure.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="370" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="317" />
     <option name="y" value="27" />
     <option name="width" value="895" />
-    <option name="height" value="419" />
+    <option name="height" value="508" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -140,29 +143,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.nav.html">
-    <configuration name="ContentEditable.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/ContentEditable/ContentEditable.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.Figure.html">
+    <configuration name="Figure.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/Figure/Figure.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="First.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/FirstHTML5/First.html" useBuiltInWebServerPort="true">
+    <configuration name="Test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/Test/Test.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="article.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/article/article.html" useBuiltInWebServerPort="true">
+    <configuration name="h1-6.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/h1-6/h1-6.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="nav.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/nav/nav.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="section1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/section/section1.html" useBuiltInWebServerPort="true">
+    <configuration name="navigation.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/navigation/navigation.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Figure.html" />
+        <item itemvalue="JavaScript Debug.navigation.html" />
+        <item itemvalue="JavaScript Debug.h1-6.html" />
+        <item itemvalue="JavaScript Debug.Test.html" />
         <item itemvalue="JavaScript Debug.nav.html" />
-        <item itemvalue="JavaScript Debug.section1.html" />
-        <item itemvalue="JavaScript Debug.article.html" />
-        <item itemvalue="JavaScript Debug.ContentEditable.html" />
-        <item itemvalue="JavaScript Debug.First.html" />
       </list>
     </recent_temporary>
   </component>
@@ -181,17 +184,19 @@
       <workItem from="1545863428467" duration="7962000" />
       <workItem from="1545876561197" duration="85000" />
       <workItem from="1546279943795" duration="3275000" />
+      <workItem from="1546318110083" duration="4354000" />
+      <workItem from="1546480911644" duration="962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14693000" />
+    <option name="totallyTimeSpent" value="20009000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1366" height="700" extended-state="6" />
+    <frame x="317" y="27" width="895" height="508" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.16133828" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.16132723" />
       <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.24942791" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -486,9 +491,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/section.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/section.css" />
     <entry file="file://$PROJECT_DIR$/section/section1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -499,7 +502,35 @@
     <entry file="file://$PROJECT_DIR$/nav/nav.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
-          <caret line="33" column="12" lean-forward="true" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/h1-6/h1-6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/navigation/navigation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="40" column="17" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Figure/Figure.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
         </state>
       </provider>
     </entry>
