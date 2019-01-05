@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0614df9e-eb42-4eed-bf51-8f65b158951d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CSS3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS3/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -14,13 +14,38 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Layout/normalize.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2162">
+              <caret line="121" column="7" lean-forward="true" selection-start-line="121" selection-start-column="7" selection-end-line="121" selection-end-column="7" />
+              <folding>
+                <element signature="e#1748#1756#0" expanded="true" />
+                <element signature="e#3077#3085#0" expanded="true" />
+                <element signature="e#3861#3869#0" expanded="true" />
+                <element signature="e#5825#5831#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Layout/css/normalize.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="203" column="22" lean-forward="true" selection-start-line="203" selection-start-column="22" selection-end-line="203" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -72,12 +97,14 @@
         <option value="$PROJECT_DIR$/navigation/navigation.html" />
         <option value="$PROJECT_DIR$/Figure/Figure.html" />
         <option value="$PROJECT_DIR$/cite/cite.html" />
+        <option value="$PROJECT_DIR$/Layout/css/normalize.css" />
+        <option value="$PROJECT_DIR$/Layout/normalize.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="323" />
-    <option name="y" value="118" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="191" />
+    <option name="y" value="293" />
     <option name="width" value="895" />
     <option name="height" value="508" />
   </component>
@@ -95,6 +122,11 @@
             <path>
               <item name="HTML5" type="b2602c69:ProjectViewProjectNode" />
               <item name="HTML5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HTML5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,11 +166,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.cite.html">
+  <component name="RunManager" selected="JavaScript Debug.normalize.html">
     <configuration name="Figure.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/Figure/Figure.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="Test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/Test/Test.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="cite.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/cite/cite.html" useBuiltInWebServerPort="true">
@@ -150,13 +179,16 @@
     <configuration name="navigation.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/navigation/navigation.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="normalize.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HTML5/Layout/normalize.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.normalize.html" />
         <item itemvalue="JavaScript Debug.cite.html" />
         <item itemvalue="JavaScript Debug.Figure.html" />
         <item itemvalue="JavaScript Debug.navigation.html" />
         <item itemvalue="JavaScript Debug.h1-6.html" />
-        <item itemvalue="JavaScript Debug.Test.html" />
       </list>
     </recent_temporary>
   </component>
@@ -178,16 +210,18 @@
       <workItem from="1546318110083" duration="4354000" />
       <workItem from="1546480911644" duration="2272000" />
       <workItem from="1546571111693" duration="10000" />
+      <workItem from="1546711252730" duration="4992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21329000" />
+    <option name="totallyTimeSpent" value="26321000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="323" y="118" width="895" height="508" extended-state="0" />
+    <frame x="0" y="27" width="1366" height="700" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.16132723" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49891067" visible="true" weight="0.10483272" />
       <window_info id="Structure" order="1" sideWeight="0.50108933" side_tool="true" weight="0.24942791" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -529,6 +563,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
           <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layout/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="203" column="22" lean-forward="true" selection-start-line="203" selection-start-column="22" selection-end-line="203" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Layout/normalize.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2162">
+          <caret line="121" column="7" lean-forward="true" selection-start-line="121" selection-start-column="7" selection-end-line="121" selection-end-column="7" />
+          <folding>
+            <element signature="e#1748#1756#0" expanded="true" />
+            <element signature="e#3077#3085#0" expanded="true" />
+            <element signature="e#3861#3869#0" expanded="true" />
+            <element signature="e#5825#5831#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
